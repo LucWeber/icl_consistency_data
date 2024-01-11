@@ -1,11 +1,7 @@
-# ICL consistency data
-Repository to provide a URI for the GenBench ICL-consistency task.
-
+***
 You can load the data using 🤗's datasets (click [here](https://huggingface.co/datasets/LucasWeber/icl_consistency_test) to find the dataset on the hub)
-
-#####################################################
-
-# The ICL consistency test
+***
+# The ICL consistency test (data)
 
 This 🤗 dataset provides data for the [GenBench CBT task 'The ICL consistency test'](https://github.com/GenBench/genbench_cbt/tree/main/src/genbench/tasks/icl_consistency_test).
 The ICL consistency test measures the consistency of LLM predictions on the same data points across many different equivalent prompting setups. 
