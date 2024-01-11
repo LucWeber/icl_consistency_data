@@ -1,4 +1,4 @@
 # ICL consistency data
 Repository to provide a URI for the GenBench ICL-consistency task.
 
-(If the implementation is matured, I might consider using hf-datasets)
+You can load the data using 🤗's datasets (click [here](https://huggingface.co/datasets/LucasWeber/icl_consistency_test) to find the dataset on the hub)
